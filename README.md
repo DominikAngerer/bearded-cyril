@@ -9,6 +9,16 @@ Bearded Cyril will be a free to use template for let's say minimalistic photogra
 Have a look at the [Live Preview], or have a look at this beautiful screenshot:
 ![Beard Cyril Preview](http://adtime.at/projects/github/bearded-cyril/preview.jpg)
 
+## Easy to customize
+You can simply customize this template by changing the variables already defined in the `variables.scss`. Which should look like this:
+```scss
+$fullwith-jump-if:790px;
+$sidebar-bg-color:#22313F;
+$sidebar-text-color:#fff;
+$portfolio-item-height:200px;
+```
+As you can see these are only a few at the moment, but of course the amount of variables will grow and so will the customizability.
+
 # Getting started
 ##  What you’ll need
 - About 10 minutes
@@ -31,4 +41,4 @@ Run `grunt build` to generate a `dist` Folder you can use to publish.
 [npm]:https://www.npmjs.com/
 [bower]:http://bower.io/
 [grunt]:http://gruntjs.com/
- [Live Preview]:http://adtime.at/projects/github/bearded-cyril/
+[Live Preview]:http://adtime.at/projects/github/bearded-cyril/
