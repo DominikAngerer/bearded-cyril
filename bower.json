@@ -1,0 +1,11 @@
+{
+  "name": "bearded-cyril",
+  "version": "0.0.0",
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2",
+    "normalize-scss": "~2.1.2",
+    "griddler": "~0.0.9"
+  },
+  "devDependencies": {}
+}
