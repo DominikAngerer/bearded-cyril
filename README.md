@@ -2,8 +2,8 @@
 
 Bearded Cyril? It was the best name I could figure out... no, just joking, it was the recommendation from github and I though: why not ;)
 
-## What is this?
-Bearded Cyril will be a free to use template for let's say minimalistic photographers. But of course it could be used for many more.
+## What is it?
+Bearded Cyril will be a free to use template for let's say minimalistic photographers. But of course it could be used for many more. Maybe there will come a second repo with an wordpress template you can then use also like this template. If you have any ideas for more sections just open an issue ;)
 
 # Preview
 Have a look at the [LIVE PREVIEW HERE], or have a look at this beautiful screenshot:
