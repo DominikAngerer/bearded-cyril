@@ -2,11 +2,11 @@
 
 Bearded Cyril? It was the best name I could figure out... no, just joking, it was the recommendation from github and I though: why not ;)
 
-## What is it?
-Bearded Cyril will be a free to use template for let's say minimalistic photographers. But of course it could be used for many more. Maybe there will come a second repo with an wordpress template you can then use also like this template. If you have any ideas for more sections just open an issue ;)
+## What is this?
+Bearded Cyril will be a free to use template for let's say minimalistic photographers. But of course it could be used for many more.
 
-# Preview
-Have a look at the [LIVE PREVIEW HERE], or have a look at this beautiful screenshot:
+# Preview ([Live Preview])
+Have a look at the [Live Preview], or have a look at this beautiful screenshot:
 ![Beard Cyril Preview](http://adtime.at/projects/github/bearded-cyril/preview.jpg)
 
 # Getting started
@@ -31,4 +31,4 @@ Run `grunt build` to generate a `dist` Folder you can use to publish.
 [npm]:https://www.npmjs.com/
 [bower]:http://bower.io/
 [grunt]:http://gruntjs.com/
-[LIVE PREVIEW HERE]:http://adtime.at/projects/github/bearded-cyril/
+ [Live Preview]:http://adtime.at/projects/github/bearded-cyril/
