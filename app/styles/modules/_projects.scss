@@ -1,0 +1,31 @@
+.projects {
+	&:hover a {
+		background-color:rgba(#000,.4);
+	}
+}
+.projects-info {
+	background-color:#fff;
+	padding:10px 0px 20px 20px;
+	h1 {
+		margin: 20px 0 10px 0;
+	}
+}
+.project {
+	height: $portfolio-item-height;
+	background: #fff;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	a {
+		display:block;
+		position:relative;
+		z-index:1;
+		width:100%;
+		height:100%;
+		transition:background-color 750ms ease, box-shadow 750ms ease;
+		&:hover {
+			background-color:rgba(#000,.0);
+			box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+		}
+	}
+}

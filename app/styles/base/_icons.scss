@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'portfolio';
+    src:url('../fonts/portfolio.eot?2cbkai');
+    src:url('../fonts/portfolio.eot?#iefix2cbkai') format('embedded-opentype'),
+    url('../fonts/portfolio.woff?2cbkai') format('woff'),
+    url('../fonts/portfolio.ttf?2cbkai') format('truetype'),
+    url('../fonts/portfolio.svg?2cbkai#portfolio') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    font-family: 'portfolio';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-comment-empty:before { content: '\e800'; } /* '' */
+.icon-code:before { content: '\e801'; } /* '' */
+.icon-pinterest:before { content: '\e802'; } /* '' */
+.icon-desktop:before { content: '\e803'; } /* '' */
+.icon-laptop:before { content: '\e804'; } /* '' */
+.icon-tablet:before { content: '\e805'; } /* '' */
+.icon-mobile:before { content: '\e806'; } /* '' */
+.icon-magic:before { content: '\e807'; } /* '' */
+.icon-tumblr:before { content: '\e808'; } /* '' */
+.icon-linkedin:before { content: '\e809'; } /* '' */
+.icon-github:before { content: '\e80a'; } /* '' */
+.icon-github-1:before { content: '\e818'; } /* '' */
+.icon-dribbble:before { content: '\e80b'; } /* '' */
+.icon-mail:before { content: '\e80c'; } /* '' */
+.icon-vimeo:before { content: '\e80d'; } /* '' */
+.icon-flickr:before { content: '\e80e'; } /* '' */
+.icon-stumbleupon:before { content: '\e80f'; } /* '' */
+.icon-lastfm:before { content: '\e810'; } /* '' */
+.icon-rdio:before { content: '\e811'; } /* '' */
+.icon-instagram:before { content: '\e812'; } /* '' */
+.icon-gplus:before { content: '\e813'; } /* '' */
+.icon-facebook:before { content: '\e814'; } /* '' */
+.icon-twitter:before { content: '\e815'; } /* '' */
+.icon-dropbox:before { content: '\e816'; } /* '' */
+.icon-skype:before { content: '\e817'; } /* '' */
+.icon-xing:before { content: '\e819'; } /* '' */
+.icon-stackoverflow:before { content: '\e81a'; } /* '' */

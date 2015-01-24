@@ -1,0 +1,36 @@
+aside {
+    height:500px;
+    width: 100%;
+    float:left;
+    background:$sidebar-bg-color;
+    color: $sidebar-text-color;
+}
+.about {
+	.picture {
+		background-image:url("http://lorempixel.com/400/400");
+		background-size:cover;
+		width:150px;
+		height:150px;
+		border-radius:50%;
+		margin:0 auto;
+		& > * {
+			visibility:hidden;
+		}
+		margin-bottom:15px;
+	}
+	
+	padding-left:40px;
+	padding-right:40px;
+	padding-top:50%;
+	text-align:center;
+	p {
+		font-size:16px;
+	}
+}
+
+@media screen and (min-width: $fullwith-jump-if) {
+	aside {
+	    width: 30%;
+	    height:100vh;
+	}
+}

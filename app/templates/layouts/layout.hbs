@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Dominik Angerer">
+
+	<title>Portfolio Template</title>
+
+	<meta property="og:image" content="">
+	<meta property="og:title" content="Portfolio Template">
+	<meta property="og:description" content="">
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:200,400,700" rel="stylesheet" type="text/css">
+
+	<!-- build:css({.tmp,app}) styles/main.css -->
+	<link rel="stylesheet" href="styles/main.css">
+	<!-- endbuild -->
+
+	<!-- build:js({.tmp}) scripts/vendor/modernizr.js -->
+	<script src="bower_components/modernizr/modernizr.js"></script>
+	<!-- endbuild -->
+</head>
+<body>
+
+	
+	{{>sidebar}}
+	<section class="stage">
+		{{body}}	
+	</section>
+	{{>scripts}}
+
+</body>
+</html>

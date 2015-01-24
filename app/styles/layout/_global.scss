@@ -1,0 +1,28 @@
+.stage {
+    background:#edf0f2;
+    float:left;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.row--no-gutter {
+    margin-left: 0;
+    margin-right: 0;
+
+    [class^="col-"], [class*=" col-"] {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media screen and (min-width: $fullwith-jump-if) {
+    .stage {
+        width: 70%;
+    }
+}
+@media screen and (min-width: $fullwith-jump-if) {
+    .stage {
+        overflow-y:scroll;
+        height:100vh;
+    }
+}
