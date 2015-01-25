@@ -1,0 +1,63 @@
+.social-container {
+	position:absolute;
+	bottom:0;
+	width:25%;
+	list-style:none;
+	padding:0;
+	padding-left:2.5%;
+	margin:0 0 20px 0;
+
+	&>li{
+		float:left;
+		width:16.6666666666%;
+		a {
+			display: block;
+			text-decoration: none;
+			text-align: center;
+			padding-top:30%;
+			padding-bottom:30%;
+		}
+		i {
+			font-size:20px;
+		}
+	}	
+}
+.a-facebook,.a-stackoverflow,.a-twitter,.a-gplus,.a-pinterest,.a-linkedin,.a-instagram,.a-flickr,.a-tumblr,.a-vimeo,.a-dribbble,.a-xing,.a-github,.a-github-1{transition:background 500ms ease;}
+
+.a-facebook:hover{background:#3B5998;}
+.a-twitter:hover{background:#00aced;}
+.a-gplus:hover{background:#dd4b39;}
+.a-pinterest:hover{background:#cb2027;}
+.a-linkedin:hover{background:#007bb6;}
+.a-instagram:hover{background:#3f729b;}
+.a-flickr:hover{background:#ff0084;}
+.a-tumblr:hover{background:#32506d;}
+.a-vimeo:hover{background:#aad450;}
+.a-dribbble:hover{background:#ea4c89;}
+.a-xing:hover{background:#126567;}
+.a-github:hover,.a-github-1:hover{background:#3d81c6;}
+.a-stackoverflow:hover{background:#f90;}
+
+@media screen and (max-width: 790px) {
+    .about {
+        padding-top:20px;
+    }
+    .social-container {
+    	padding-top:30px;
+        position:relative;
+        width:95%; 
+    }
+    .a-facebook{background:#3B5998;}
+	.a-twitter{background:#00aced;}
+	.a-gplus{background:#dd4b39;}
+	.a-pinterest{background:#cb2027;}
+	.a-linkedin{background:#007bb6;}
+	.a-instagram{background:#3f729b;}
+	.a-flickr{background:#ff0084;}
+	.a-tumblr{background:#32506d;}
+	.a-vimeo{background:#aad450;}
+	.a-dribbble{background:#ea4c89;}
+	.a-xing{background:#126567;}
+	.a-github,.a-github-1{background:#3d81c6;}
+	.a-stackoverflow{background:#f90;}
+}
