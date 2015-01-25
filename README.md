@@ -11,7 +11,7 @@ Have a look at the [Live Preview], or have a look at this beautiful screenshot:
 
 # Preview Socialbar ([Live Preview])
 Added social bar to sidebar available @ the: Live Preview
-![Beard Cyril Social Preview](http://adtime.at/projects/github/bearded-cyril/social-preview.jpg)
+![Beard Cyril Social Preview](http://adtime.at/projects/github/bearded-cyril/preview-social.jpg)
 
 ## Easy to customize
 You can simply customize this template by changing the variables already defined in the `variables.scss`. Which should look like this:
