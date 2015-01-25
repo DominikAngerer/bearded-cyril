@@ -10,7 +10,7 @@ Have a look at the [Live Preview], or have a look at this beautiful screenshot:
 ![Beard Cyril Preview](http://adtime.at/projects/github/bearded-cyril/preview.jpg)
 
 # Preview Socialbar ([Live Preview])
-Added social bar to sidebar available @ the: Live Preview
+Added social bar to sidebar available @ the: [Live Preview]
 ![Beard Cyril Social Preview](http://adtime.at/projects/github/bearded-cyril/preview-social-long.png)
 
 ## Easy to customize
