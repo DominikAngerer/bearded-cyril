@@ -9,6 +9,10 @@ Bearded Cyril will be a free to use template for let's say minimalistic photogra
 Have a look at the [Live Preview], or have a look at this beautiful screenshot:
 ![Beard Cyril Preview](http://adtime.at/projects/github/bearded-cyril/preview.jpg)
 
+# Preview Socialbar ([Live Preview])
+Added social bar to sidebar available @ the: Live Preview
+![Beard Cyril Social Preview](http://adtime.at/projects/github/bearded-cyril/social-preview.jpg)
+
 ## Easy to customize
 You can simply customize this template by changing the variables already defined in the `variables.scss`. Which should look like this:
 ```scss
