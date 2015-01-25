@@ -7,7 +7,7 @@ Bearded Cyril will be a free to use template for let's say minimalistic photogra
 
 # Preview ([Live Preview])
 Have a look at the [Live Preview], or have a look at this beautiful screenshot:
-![Beard Cyril Preview](http://adtime.at/projects/github/bearded-cyril/preview.jpg)
+![Beard Cyril Preview](http://adtime.at/projects/github/bearded-cyril/preview+social.png)
 
 # Preview Socialbar ([Live Preview])
 Added social bar to sidebar available @ the: [Live Preview]
