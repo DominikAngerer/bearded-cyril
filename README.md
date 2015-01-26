@@ -5,11 +5,11 @@ Bearded Cyril? It was the best name I could figure out... no, just joking, it wa
 ## What is this?
 Bearded Cyril will be a free to use template for let's say minimalistic photographers. But of course it could be used for many more.
 
-# Preview ([Live Preview])
+# Preview - [Live Preview] 
 Have a look at the [Live Preview], or have a look at this beautiful screenshot:
 ![Beard Cyril Preview](http://adtime.at/projects/github/bearded-cyril/preview+social.png)
 
-# Preview Socialbar ([Live Preview])
+# Preview Socialbar - [Live Preview]
 Added social bar to sidebar available @ the: [Live Preview]
 ![Beard Cyril Social Preview](http://adtime.at/projects/github/bearded-cyril/preview-social-long.png)
 
@@ -41,6 +41,8 @@ Run `grunt serve` to boot up a local server
 
 ## Build
 Run `grunt build` to generate a `dist` Folder you can use to publish.
+
+# [Live Preview]
 
 [npm]:https://www.npmjs.com/
 [bower]:http://bower.io/
