@@ -44,6 +44,9 @@ Run `grunt build` to generate a `dist` Folder you can use to publish.
 
 # [Live Preview]
 
+### Find the live example [@dominikangerer.com]
+
+[@dominikangerer.com]:http://dominikangerer.com
 [npm]:https://www.npmjs.com/
 [bower]:http://bower.io/
 [grunt]:http://gruntjs.com/
