@@ -50,4 +50,4 @@ Run `grunt build` to generate a `dist` Folder you can use to publish.
 [npm]:https://www.npmjs.com/
 [bower]:http://bower.io/
 [grunt]:http://gruntjs.com/
-[Live Preview]:http://adtime.at/projects/github/bearded-cyril/
+[Live Preview]:http://dominikangerer.com/projects/github/bearded-cyril/
